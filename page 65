@@ -33,7 +33,7 @@ List::List()
 }
 List::~List()
 {}
-List::numberOfItem()
+intList::numberOfItem()
 {
 	return size;
 }
