@@ -31,7 +31,8 @@ List::List()
 {
 	size = 0;
 }
-
+List::~List()
+{}
 List::numberOfItem()
 {
 	return size;
